@@ -1,15 +1,20 @@
 # 🌐 Personal Portfolio
 
-Welcome to my personal portfolio! This project showcases my skills, projects, and experience in software development.  
-Built with **HTML**, **CSS**, and **JavaScript**.
+Welcome to my personal portfolio! This project highlights my skills, projects, and experience as a software engineer.  
+Built with **HTML**, **CSS**, and **JavaScript**, and deployed on **Netlify**.
 
 ---
 
-## 🚀 Features
-- Responsive design for desktop and mobile
-- Sections for **About Me**, **Projects**, and **Contact**
-- Smooth navigation and interactive elements
-- Easy to customize and deploy
+## 🚀 Live Demo
+[**View Portfolio**](https://starlit-babka-8c76af.netlify.app/) ✅
+
+---
+
+## ✨ Features
+- **Responsive Design** – Works seamlessly on all devices
+- **Smooth Navigation** – User-friendly layout and transitions
+- **Projects Showcase** – Highlights my best work
+- **Contact Section** – Easy way to reach me
 
 ---
 
@@ -41,18 +46,20 @@ cd Protfolio
 Simply open index.html in your favorite browser.
 
 🌍 Deployment
-You can deploy this portfolio easily using GitHub Pages:
+This portfolio is deployed using Netlify and can be accessed at:
+👉 https://starlit-babka-8c76af.netlify.app/
 
-Push your latest changes:
+To deploy your own version:
 
-bash
-Copy
-Edit
-git add .
-git commit -m "Initial portfolio setup"
-git push origin main
-Go to Settings > Pages in your GitHub repo.
+Push changes to your GitHub repo
 
-Under Source, select main branch and root (/) folder.
+Link your repo to Netlify
 
-Click Save. Your portfolio will be live at:
+Deploy in just a few clicks!
+
+🛠️ Built With
+HTML5
+
+CSS3
+
+JavaScript
